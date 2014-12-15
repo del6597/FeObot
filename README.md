@@ -1,0 +1,4 @@
+rustirc
+=======
+
+Rust IRC project
