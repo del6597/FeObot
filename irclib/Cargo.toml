@@ -1,5 +1,5 @@
 [package]
 
-name = "irc"
+name = "irclib"
 version = "0.0.1"
 authors = ["David Lamont <del6597@rit.edu>"]
