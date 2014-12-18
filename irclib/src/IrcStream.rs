@@ -38,7 +38,7 @@ impl IrcStream {
     pub fn write(&mut self, line: &str) {
         print!("Writing: {}", line);
         self.outputstream.write_line(line);
-        self.outputstream.flush();
+        self.outputstream.flush(); // Maybe this shouldn't be a buffered output stream...?
     }
     
 }
