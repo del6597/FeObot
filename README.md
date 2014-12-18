@@ -1,4 +1,4 @@
 rustirc
 =======
 
-Rust IRC project
+-Rust IRC project-
