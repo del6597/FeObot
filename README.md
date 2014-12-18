@@ -1,4 +1,4 @@
-rustirc
-=======
+FeObot
+======
 
 -Rust IRC project-
